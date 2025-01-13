@@ -9,7 +9,7 @@ int main()
     std::cout << "Enter the second number: ";
     std::cin >> second;
     
-    std::cout << "The modulus of " << first << " and " << second << " is " << first + second << ".\n";
+    std::cout << "The sum of " << first << " and " << second << " is " << first + second << ".\n";
 
     return 0;
 }
