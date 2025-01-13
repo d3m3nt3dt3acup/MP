@@ -43,7 +43,7 @@ int main()
             std::cout << "\nYou have exited the ATM Banking System.\n";
             break;
         }
-        else std::cout << "Invalid choice.\n";
+        else std::cout << "\nInvalid choice.\n";
     }
 
     return 0;
