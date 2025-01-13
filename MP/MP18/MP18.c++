@@ -40,7 +40,7 @@ int main()
         }
         else if (choice == 'E')
         {
-            std::cout << "You have exited the ATM Banking System.\n";
+            std::cout << "\nYou have exited the ATM Banking System.\n";
             break;
         }
         else std::cout << "Invalid choice.\n";
