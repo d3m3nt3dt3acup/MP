@@ -1,3 +1,5 @@
 # MP
 
-This repository stores all my MPs in the Computer Programming subject. Each MP folder contains the source code and executable.
+Ira Jasper SM. Fuentesfina
+BSCS1-A
+MP1-MP40
