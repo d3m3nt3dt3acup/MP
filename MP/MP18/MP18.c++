@@ -29,7 +29,7 @@ int main()
         }
         else if (choice == 'W')
         {
-            if (balance <= 0) std::cout << "You cannot withdraw due to insufficient balance.\n";
+            if (balance <= 0) std::cout << "\nYou cannot withdraw due to insufficient balance.\n";
             else
             {
                 std::cout << "\nEnter the withdraw amount: ";
