@@ -23,7 +23,7 @@ int main()
         switch (choice)
         {
             case 'I':
-                std::cout << "Your balance is " << balance << " pesos.\n";
+                std::cout << "\nYour balance is " << balance << " pesos.\n";
                 break;
             case 'D':
                 std::cout << "\nEnter the deposit amount: ";
@@ -42,11 +42,11 @@ int main()
                 }
                 break;
             case 'E':
-                std::cout << "You have exited the ATM Banking System.\n";
+                std::cout << "\nYou have exited the ATM Banking System.\n";
                 exit++;
                 break;
             default:
-                std::cout << "Invalid choice.\n";
+                std::cout << "\nInvalid choice.\n";
         }
     }
 
