@@ -2,7 +2,7 @@
 
 int main()
 {
-    int height = 25;
+    int height = 5;
 
     for (int i = 1; i <= height; i++)
     {
